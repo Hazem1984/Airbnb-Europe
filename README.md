@@ -6,3 +6,5 @@ Data Analysis project conducted in Python for Career Foundry Data Analytics Prog
 
 The dataset includes accommodation in 10 major European cities for two people and two nights.
 
+### Data Source: 
+This data is publicly available open-source data. It was downloaded from the Website: Zenodo.org     https://zenodo.org/record/4446043
