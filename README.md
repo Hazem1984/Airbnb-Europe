@@ -1,4 +1,6 @@
 # Airbnb-Europe
-Determinants of Airbnb Prices in European Cities
+## Determinants of Airbnb Prices in European Cities
 Data Analysis project conducted in Python for Career Foundry Data Analytics Program.
-[Airbnb_Europe.docx](https://github.com/Hazem1984/Airbnb-Europe/files/11708620/Airbnb_Europe.docx)
+**Data Contents:**
+The dataset includes accommodation in 10 major European cities for two people and two nights.
+
